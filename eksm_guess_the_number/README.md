@@ -2,7 +2,8 @@
 
 
 ## Code
-*Link to be inserted (under construction)*
+[eksm_guess_the_number.py](https://github.com/eduardoksmello/eduardoksmello_study/blob/main/eksm_guess_the_number/eksm_guess_the_number.py)
+
 ## Objective
 This project presents a “Guess the Number” game created with the following coding techniques: 
 * random numbers
