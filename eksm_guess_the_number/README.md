@@ -11,6 +11,5 @@ This project presents a “Guess the Number” game created with the following c
 * user input
 
 ## Overview
-Starting the game, the computer will select a random number from 1 to 20 and the user will try to guess it. 
-During gameplay, the computer will answer if the guess is too high or too low. The user wins guessing the right number. 
-Attempts are delimited by the selected game difficulty.
+When starting the game, the computer selects a random number from 1 to 20 and the user will try to guess it. 
+After each user attempt the computer will answer if the guess was too high or too low. The user wins guessing the right number and attempts are delimited by the selected game difficulty.
