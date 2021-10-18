@@ -1,6 +1,6 @@
 ![image](https://github.com/eduardoksmello/eduardoksmello_study/blob/main/study_banner_readme.jpg)
 
-# Project 1: Guess the Number Game
+# [Project 1: Guess the Number Game](https://github.com/eduardoksmello/eduardoksmello_study/tree/main/eksm_guess_the_number)
 
 ## Objective
 This project aimed to create a game “Guess the Number”.
