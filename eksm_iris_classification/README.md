@@ -13,4 +13,4 @@ Exploratory data analysis
 Data pre-processing
 Classification models train and evaluation
 
-![image](https://images.unsplash.com/photo-1628348070889-cb656235b4eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80)
+![image](https://github.com/eduardoksmello/eduardoksmello_study/blob/main/eksm_iris_classification/iris_banner.jpg)
