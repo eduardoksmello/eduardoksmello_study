@@ -12,7 +12,7 @@
 * Written in Python.
 * Usage of random numbers, functions, loops, user input, and string manipulation.
 
-# [Project 3: Iris Dataset](https://github.com/eduardoksmello/eduardoksmello_study/tree/main/eksm_the_hangman)
+# [Project 3: Iris Dataset](https://github.com/eduardoksmello/eduardoksmello_study/tree/main/eksm_iris_classification)
 
 * Machine learing model: Classifier.
 * Written in Python.
