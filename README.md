@@ -11,3 +11,9 @@
 * Find out the secret word.
 * Written in Python.
 * Usage of random numbers, functions, loops, user input, and string manipulation.
+
+# [Project 3: Iris Dataset](https://github.com/eduardoksmello/eduardoksmello_study/tree/main/eksm_the_hangman)
+
+* Machine learing model: Classifier.
+* Written in Python.
+* Usage of python librares for Exploratory Data Analysis, Data pre-processing and Classification models train and evaluation.
