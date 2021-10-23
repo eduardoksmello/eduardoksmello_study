@@ -14,6 +14,12 @@
 
 # [Project 3: Iris Dataset](https://github.com/eduardoksmello/eduardoksmello_study/tree/main/eksm_iris_classification)
 
-* Machine learing model: Classifier.
+* Machine learing model: Classification.
 * Written in Python.
 * Usage of python librares for Exploratory Data Analysis, Data pre-processing and Classification models train and evaluation.
+
+# [Project 4: Wine Dataset](https://github.com/eduardoksmello/eduardoksmello_study/tree/main/eksm_wine_clustering)
+
+* Machine learing model: Classification.
+* Writen in Python
+* Usage of python librares for Exploratory Data Analysis, Data pre-processing and Clustering models train and evaluation.
