@@ -12,14 +12,14 @@
 * Written in Python.
 * Usage of random numbers, functions, loops, user input, and string manipulation.
 
-# [Project 3: Iris Dataset](https://github.com/eduardoksmello/eduardoksmello_study/tree/main/eksm_iris_classification)
+# [Project 3: Iris Classification](https://github.com/eduardoksmello/eduardoksmello_study/tree/main/eksm_iris_classification)
 
 * Machine learing model: Classification.
 * Written in Python.
 * Usage of python librares for Exploratory Data Analysis, Data pre-processing and Classification models train and evaluation.
 
-# [Project 4: Wine Dataset](https://github.com/eduardoksmello/eduardoksmello_study/tree/main/eksm_wine_clustering)
+# [Project 4: Wine Clustering](https://github.com/eduardoksmello/eduardoksmello_study/tree/main/eksm_wine_clustering)
 
-* Machine learing model: Classification.
+* Machine learing model: Clustering.
 * Writen in Python
 * Usage of python librares for Exploratory Data Analysis, Data pre-processing and Clustering models train and evaluation.
