@@ -23,3 +23,10 @@
 * Machine learing model: Clustering.
 * Writen in Python
 * Usage of python librares for Exploratory Data Analysis, Data pre-processing and Clustering models train and evaluation.
+
+# [Project 5: Petshop Sales Dashboard](https://github.com/eduardoksmello/dashboard_petshop_alura)
+
+* Dashbord
+* ETL (Extract, Transform, and Data Load)
+* Power Bi
+* Data Visualization
